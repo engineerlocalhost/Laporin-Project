@@ -1,0 +1,7 @@
+{
+  "name": "Laporin",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
